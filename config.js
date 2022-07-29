@@ -8,9 +8,9 @@ global.nameowner = 'Acill⛧⁩⁩'
 global.numberowner = '6283838757324'
 global.instagram = 'https://www.instagram.com/acil.pedia'
 global.github = 'https://github.com/gmpyyy'
-global.dana = '087898307350'
-global.pulsa = '087898307350'
-global.gopay = '-'
+global.dana = '88225488682'
+global.pulsa = '088225488682'
+global.gopay = '088225488682'
 
 //=============『 Info Bot 』=================//
 global.namebot = '𝐀𝐂𝐈𝐋 𝐁𝐎𝐓'
