@@ -1,7 +1,6 @@
 let handler = async (m, {conn}) => {
 let anu = '\nوَعَلَيْكُمْ السَّلاَمُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ\n\n_waalaikumussalam wr.wb._'
 m.reply(anu)  
-sendMedia("vn","./media/salam.mp3")
 }
 handler.customPrefix = /^ass?alam|اَلسَّلاَمُ عَلَيْكُمْ|السلام عليکم$/i // ketik bot (tanpa prefix)
 handler.command = new RegExp
