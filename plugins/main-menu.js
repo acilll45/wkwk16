@@ -271,7 +271,7 @@ const fdoc = {
 if (teks == '404') {
 let menuu = `┏━━━ ﹝𝔹𝕆𝕋 𝕀ℕ𝔽𝕆﹞ ━━⚀︎
 ┠ 💻𝘖𝘸𝘯𝘦𝘳 ➨ ${global.nameowner}
-┠👤𝘊𝘳𝘦𝘢𝘵𝘰𝘳 ➨ 𝘎𝘦𝘮𝘱𝘺
+┠👤𝘊𝘳𝘦𝘢𝘵𝘰𝘳 ➨ 𝐀𝐜𝐢𝐥
 ┠🤖𝘉𝘰𝘵𝘕𝘢𝘮𝘦 ➨ ${global.namebot}
 ┠🔱𝘔𝘰𝘥𝘦 ➨ ${global.opts['self'] ? 'Self' : 'publik'}
 ┠ ⏲️𝘙𝘶𝘯𝘵𝘪𝘮𝘦 ➨ ${uptime}
@@ -485,14 +485,14 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedFooterText: wm2, 
             hydratedButtons: [{
             urlButton: {
-               displayText: '𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐆𝐄𝐌𝐏𝐘',
+               displayText: '𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐀𝐂𝐈𝐋',
                url: web
              }
 
            },
              {
              urlButton: {
-               displayText: '𝐆𝐑𝐔𝐏 𝐏𝐄𝐍𝐓𝐀𝐁𝐎𝐓', 
+               displayText: '𝐆𝐑𝐔𝐏 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐀𝐂𝐈𝐋', 
                url: gc
              }
 
