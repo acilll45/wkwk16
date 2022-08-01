@@ -8,7 +8,7 @@ global.nameowner = 'Acill⛧⁩⁩'
 global.numberowner = '6283838757324'
 global.instagram = 'https://www.instagram.com/acil.pedia'
 global.github = 'https://github.com/gmpyyy'
-global.dana = '88225488682'
+global.dana = '088225488682'
 global.pulsa = '088225488682'
 global.gopay = '088225488682'
 
@@ -19,8 +19,8 @@ global.web = 'https://youtube.com/channel/UCl7_1sOBbXXYBTyuxj7l-Tw' //ubah jadi 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ini juga ganti 
+global.fotonya1 = 'https://i.pinimg.com/originals/9b/3e/70/9b3e70d91a7db26d09ef1884049a3e71.jpg.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.pinimg.com/originals/9b/3e/70/9b3e70d91a7db26d09ef1884049a3e71.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'ACIL BOT'
@@ -29,13 +29,13 @@ global.wm2 = '                     「𝐀𝐂𝐈𝐋 𝐁𝐎𝐓」'
 global.wm3 = 'Acil⛧'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg'
+global.media = 'https://i.pinimg.com/originals/9b/3e/70/9b3e70d91a7db26d09ef1884049a3e71.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = 'Process...'
+global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = 'ERROR'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang dibuat'
+global.stiker_wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.packname = 'Created by'
 global.author = 'Acil Bot⁩⁩'
 
