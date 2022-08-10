@@ -425,6 +425,7 @@ module.exports = {
                     if (!('delete' in chat)) chat.delete = true
                     if (!('antiLink' in chat)) chat.antiLink = true
                     if (!('viewonce' in chat)) chat.viewonce = false
+                if (!('anticall' in settings)) settings.anticall = true
                     if (!('antiToxic' in chat)) chat.antiToxic = false
                 } else global.db.data.chats[m.chat] = {
                     isBanned: false,
@@ -438,6 +439,7 @@ module.exports = {
                     antiLink: true,
                     viewonce: false,
                     antiToxic: true,
+                    anticall: true,
                 }
             } catch (e) {
                 console.error(e)
@@ -708,7 +710,7 @@ module.exports = {
                         } finally {
                             text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yah,si Kontol Join').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
                                 (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang 1'))
-                                this.sendButtonImg(id, pp, text, "Group Message", "OKE 🗿🖕", "wkwk", null)
+                                this.sendButtonImg(id, pp, text, "◦•●◉✿Acil Bot✿◉●•◦.", "OKE 🗿🖕", "wkwk", null)
                                 }
                     }
                 }
