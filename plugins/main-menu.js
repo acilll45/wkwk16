@@ -511,13 +511,8 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
              }
 
            },
-           {
-                        quickReplyButton: {
-               displayText: '𝐑𝐔𝐋𝐄𝐒 𝐁𝐎𝐓',
-               id: '.rules',
-             }
-
-           },
+           
+           
            {
              quickReplyButton: {
                displayText: '𝐂𝐑𝐄𝐃𝐈𝐓',
