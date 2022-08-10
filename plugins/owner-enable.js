@@ -83,7 +83,7 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
         global.dfail('owner', m, conn)
         throw false
       }
-      setting.anticall = isEnable
+      chat.anticall = isEnable
       break
     case 'antitroli':
       isAll = true
